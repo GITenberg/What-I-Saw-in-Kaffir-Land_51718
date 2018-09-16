@@ -1,0 +1,26 @@
+_repo: What-I-Saw-in-Kaffir-Land_51718
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lakeman, Stephen
+    alias: Mozhar Pasha
+    birthdate: 1823
+    deathdate: 1900
+    gutenberg_agent_id: '46530'
+    url: http://www.gutenberg.org/2009/agents/46530
+description: ''
+gutenberg_issued: '2016-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51718'
+  lccn: 05016937
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'South Africa -- History -- Frontier Wars, 1811-1878'
+- GITenberg
+title: What I Saw in Kaffir-Land
+url: http://www.gutenberg.org/ebooks/51718
